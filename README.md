@@ -72,4 +72,4 @@
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pinto-da-conceicao/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://gustavopinto244.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://gustavopinto.dev.br)
