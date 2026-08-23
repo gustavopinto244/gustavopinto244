@@ -59,22 +59,6 @@
 
 ---
 
-## 📊 GitHub
-
-![Perfil](https://img.shields.io/github/followers/gustavopinto244?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717&color=0A66C2)
-![Estrelas](https://img.shields.io/github/stars/gustavopinto244?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas&labelColor=181717&color=F2C811)
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gustavopinto244&show_icons=true&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopinto244&layout=compact&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=gustavopinto244&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pinto-da-conceicao/)
