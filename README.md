@@ -61,10 +61,8 @@
 
 ## 📊 GitHub
 
-<!-- Substitua SEU_USUARIO pelo seu nome de usuário real do GitHub -->
-
-![Perfil](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717&color=0A66C2)
-![Estrelas](https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas&labelColor=181717&color=F2C811)
+![Perfil](https://img.shields.io/github/followers/gustavopinto244?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717&color=0A66C2)
+![Estrelas](https://img.shields.io/github/stars/gustavopinto244?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas&labelColor=181717&color=F2C811)
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=gustavopinto244&show_icons=true&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Estatísticas do GitHub" />
