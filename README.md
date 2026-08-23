@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://giphy.com/gifs/pokemon-pokemon-emerald-torchic-manectric-QuGSNIQyzspuH6BpQS" alt="Pixel bike" width="200" /> </p>
-# Olá, eu sou o Gustavo 👋
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg3dW14cnQwa2c1MnVha2QzYzhyemF0c2w3YTNvNm0xNGw1cGZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ekjpYGzSxTmDEN4n9P/giphy.gif" alt="Pixel bike" width="200" /> </p> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center">Desenvolvedor Full-Stack · Node.js · React · PostgreSQL</p>
 
 🚀 Desenvolvedor Full-Stack em formação, com foco em **Node.js/Express**, **React** e **PostgreSQL**, e interesse crescente em **dados** e **cybersecurity**.
 
