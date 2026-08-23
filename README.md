@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://giphy.com/gifs/pokemon-pokemon-emerald-torchic-manectric-QuGSNIQyzspuH6BpQS" alt="Pixel bike" width="200" /> </p>
 # Olá, eu sou o Gustavo 👋
 
 🚀 Desenvolvedor Full-Stack em formação, com foco em **Node.js/Express**, **React** e **PostgreSQL**, e interesse crescente em **dados** e **cybersecurity**.
