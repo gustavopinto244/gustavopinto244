@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn.pixabay.com/animation/2023/03/04/23/24/23-24-25-60_512.gif" alt="Pixel bike journey" width="220" /> </p> </p> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center">Desenvolvedor Full-Stack · Node.js · React · PostgreSQL</p>
+<p align="center"> <img src="https://art.pixilart.com/6eb3abfd9f8d46a.gif" alt="Pixel bike journey" width="220" /> </p> </p> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center">Desenvolvedor Full-Stack · Node.js · React · PostgreSQL</p>
 
 🚀 Desenvolvedor Full-Stack em formação, com foco em **Node.js/Express**, **React** e **PostgreSQL**, e interesse crescente em **dados** e **cybersecurity**.
 
