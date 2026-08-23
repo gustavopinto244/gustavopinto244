@@ -67,12 +67,12 @@
 ![Estrelas](https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas&labelColor=181717&color=F2C811)
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gustavopinto244&show_icons=true&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopinto244&layout=compact&hide_border=true&cache_seconds=86400&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=gustavopinto244&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 ---
