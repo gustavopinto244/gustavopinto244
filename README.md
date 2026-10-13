@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://art.pixilart.com/6eb3abfd9f8d46a.gif" alt="Pixel bike journey" width="220" /> </p> </p> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center">Desenvolvedor Full-Stack · Node.js · React · PostgreSQL</p>
 
-🚀 Desenvolvedor Full-Stack em formação, com foco em **Node.js/Express**, **React** e **PostgreSQL**, e interesse crescente em **dados** e **cybersecurity**.
+🚀 Desenvolvedor Full-Stack em formação, com foco em **Node.js/Express**, **React** e **PostgreSQL**, e interesse crescente em **cybersecurity**.
 
 - 🎓 Graduando em Sistemas de Informação
 - 💻 Trabalhando atualmente em projetos full-stack (React/Vite + TS no frontend, Node/Express + PostgreSQL no backend)
-- 📊 Também estudando análise de dados: Python, SQL e Power BI
+- 📊 Também estudando cibersegurança e redes: TCP/IP, DNS, Tunnel
 - 🌱 Explorando infraestrutura self-hosted: Linux, Docker, Nginx, PM2
 - 🔭 Buscando oportunidade de estágio em desenvolvimento
 - ⚡ Gosto de testar diferentes formas de deploy (GitHub Pages, servidor próprio, Vercel/Render/Neon) para entender o pipeline completo, do código à produção
